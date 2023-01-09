@@ -13,7 +13,7 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. Clone this repo using SSH. 
 
-1. In your local copy of the repo, open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "----Add you name here----" with your name. 
+1. In your local copy of the repo, open index.html in your favorite text editor (if you do not have a favorite, we recommend the free version of [Sublime Text](https://www.sublimetext.com/)) and replace "Nicolas (Ryan) Chapados" with your name. 
 
 1. Push your change to your remote repo. 
 
